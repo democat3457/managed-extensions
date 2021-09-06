@@ -6,7 +6,7 @@
 
 ### What is this?
 
-This is a list of allowed and forced extensions on PISD. Currently, all other extensions are blocked.
+This is a list of allowed and forced extensions on PISD. You can click the arrow next to a found extension to show/hide the description. Currently, all other extensions are blocked.
 
 Extensions are obtained using a Python repl.it at https://replit.com/@democat/Extension-finder and the policies found at `chrome://policy`
 
