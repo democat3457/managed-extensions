@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## School-Managed Extensions in PISD
 
-You can use the [editor on GitHub](https://github.com/democat3457/managed-extensions/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- [Allowed extensions](allowed)
+- [Forced extensions](forced)
+- Blocked extensions (all)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is this?
 
-### Markdown
+This is a list of allowed and forced extensions on PISD. As of September 2021, all other extensions are blocked.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Extensions are obtained using a Python repl.it at https://replit.com/@democat/Extension-finder and the policies found at `chrome://policy`
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/democat3457/managed-extensions/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*Last updated September 2021*
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Ping me on Discord at democat#3457
+- Create a GitHub issue at https://github.com/democat3457/managed-extensions/issues
