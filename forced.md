@@ -58,7 +58,7 @@ There are 10 extensions, with 10 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/adokjfanaflbkibffcbhihgihpgijcei">Share to Classroom</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/adokjfanaflbkibffcbhihgihpgijcei">Share to Classroom</a></summary>
 
   Get your class on the same (web)page, instantly.
   </details>
