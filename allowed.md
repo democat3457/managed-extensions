@@ -1,5 +1,5 @@
 # Allowed Extensions
-There are 173 extensions, with 173 found extensions and 0 not found extensions.
+There are 173 extensions, with 173 found extensions and 0 not found extensions. 17 extensions were found but removed from the web store.
 
 ## FOUND extensions:
 
@@ -172,7 +172,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/mjgcgnfikekladnkhnimljcalfibijha">DocHub - Sign PDF from Gmail</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/mjgcgnfikekladnkhnimljcalfibijha">DocHub - Sign PDF from Gmail</a></summary>
 
   Sign and edit PDF documents
   </details>
@@ -274,7 +274,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/gmbgaklkmjakoegficnlkhebmhkjfich">Google Calendar</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/gmbgaklkmjakoegficnlkhebmhkjfich">Google Calendar</a></summary>
 
   Quick overview of your Google Calendar with one-click access to locations & documents
   </details>
@@ -298,7 +298,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/fkdjflnaggakjamjkmimcofefhppfljd">Google Meet Attendance</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/fkdjflnaggakjamjkmimcofefhppfljd">Google Meet Attendance</a></summary>
 
   A simple(r) way to record who attended a Google Meet session
   </details>
@@ -346,7 +346,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/hcglmfcclpfgljeaiahehebeoaiicbko">Google Photos</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/hcglmfcclpfgljeaiahehebeoaiicbko">Google Photos</a></summary>
 
   Store, search, and share a lifetime of photos
   </details>
@@ -370,7 +370,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/cjanmonomjogheabiocdamfpknlpdehm">HP Print for Chrome</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/cjanmonomjogheabiocdamfpknlpdehm">HP Print for Chrome</a></summary>
 
   Easy printing on your HP printers
   </details>
@@ -424,7 +424,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/jhnhfnolmcleankdkhfklakpchnccipg">LEGO® MINDSTORMS® Education EV3</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/jhnhfnolmcleankdkhfklakpchnccipg">LEGO® MINDSTORMS® Education EV3</a></summary>
 
   The LEGO® MINDSTORMS® Education EV3 Programming App simplifies student access to, and promotes their engagement with, STEM subjects.
   </details>
@@ -448,7 +448,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/amljbooecondkehcjahklnjokfohkfnk">MB-Ruler for Chrome</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/amljbooecondkehcjahklnjokfohkfnk">MB-Ruler for Chrome</a></summary>
 
   MB-Ruler is an overlay to measure distances and angels on web sites
   </details>
@@ -460,7 +460,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/bodmohodbngeodeekalegahdacbinaic">Meet Launch</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/bodmohodbngeodeekalegahdacbinaic">Meet Launch</a></summary>
 
   An extension that gives you quick access to Google Meet
   </details>
@@ -532,7 +532,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/oikgofeboedgfkaacpfepbfmgdalabej">Nod - Reactions for Google Meet</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/oikgofeboedgfkaacpfepbfmgdalabej">Nod - Reactions for Google Meet</a></summary>
 
   Quick emoji reactions for muted team members
   </details>
@@ -556,7 +556,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/anhjddeakbabimdgmonfbnpbainknbfa">One Click Translate</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/anhjddeakbabimdgmonfbnpbainknbfa">One Click Translate</a></summary>
 
   Translate your selected text with Google Translate in one click. Translation in a simplest way.
   </details>
@@ -580,7 +580,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/ghjhkcjbojpgiebboplfidlbapdpgihn">Paint Tool - Marker for Chrome</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/ghjhkcjbojpgiebboplfidlbapdpgihn">Paint Tool - Marker for Chrome</a></summary>
 
   Draw anything right on websites in real time and taking a screenshot!
   </details>
@@ -610,7 +610,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/hepbieccgbieoeaigepkojmogpkjfpin">Picture in Picture for every website</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/hepbieccgbieoeaigepkojmogpkjfpin">Picture in Picture for every website</a></summary>
 
   Watch videos using Picture-in-Picture mode(Floating Video Player). Support all kinds of video websites.
   </details>
@@ -730,7 +730,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/ejkbkgbliokmbblkklofdehalgbplkfg">Screenshot - Full Page Screen Capture</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/ejkbkgbliokmbblkklofdehalgbplkfg">Screenshot - Full Page Screen Capture</a></summary>
 
   Full page screenshot, capture visible content of a tab, save screenshots in PDF, PNG or copy to the clipboard.
   </details>
@@ -772,7 +772,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/djebdmfegcgaaiomgonohlbnjoglpjfh">Snap&Read PDF Reader</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/djebdmfegcgaaiomgonohlbnjoglpjfh">Snap&Read PDF Reader</a></summary>
 
   Open your PDFs stored in Google Drive with Snap&Read
   </details>
@@ -832,7 +832,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/mlfedaecajcncfkjfllofcfcjfhiopim">Sumopaint - Online Image Editor</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/mlfedaecajcncfkjfllofcfcjfhiopim">Sumopaint - Online Image Editor</a></summary>
 
   The most popular photo editor and painting app. Over 30 million users & 500 million saved images.
   </details>
@@ -916,7 +916,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/eignaoffibhilfdkmddbpigikiglehcc">Translator - Select to Translate</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/eignaoffibhilfdkmddbpigikiglehcc">Translator - Select to Translate</a></summary>
 
   Convenient and fast translation of selected text on a web page.
   </details>
@@ -946,7 +946,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://api.crxcavator.io/v1/metadata/ghlkgnalbbkgpdlodjlackgjehofahoc">Virtual backgrounds for Google Meet</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/ghlkgnalbbkgpdlodjlackgjehofahoc">Virtual backgrounds for Google Meet</a></summary>
 
   Virtual backgrounds for Google Meet
   </details>
