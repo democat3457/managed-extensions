@@ -1,5 +1,5 @@
 # Forced Extensions
-There are 10 extensions, with 10 found extensions and 0 not found extensions.
+There are 10 extensions, with 10 found extensions and 0 not found extensions. 1 extensions were found but removed from the web store.
 
 ## FOUND extensions:
 
