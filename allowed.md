@@ -1,5 +1,5 @@
 # Allowed Extensions
-There are 173 extensions, with 173 found extensions and 0 not found extensions. 17 extensions were found but removed from the web store.
+There are 179 extensions, with 179 found extensions and 0 not found extensions. 19 extensions were found but removed from the web store.
 
 ## FOUND extensions:
 
@@ -28,9 +28,21 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/arduino-create-for-educat/elmgohdonjdampbcgefphnlchgocpaij">Arduino Create for Education</a></summary>
+
+  Arduino Create Chrome app.
+  </details>
+
+- <details>
   <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/attendance-for-google-mee/fdnipcdebaagjpicpbkildmcefflobhn">Attendance for Google Meet™</a></summary>
 
   Simple way to take attendance on Google Meet™
+  </details>
+
+- <details>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/audiorecorder/enhfkjkjfhhdibpgjmiamdcdgmcjpplk">AudioRecorder</a></summary>
+
+  Record audio, and then save as a wav file. This is an (almost) exact replica of AudioRecorder: http://webaudiodemos.appspot.com/.
   </details>
 
 - <details>
@@ -43,6 +55,12 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions. 
   <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/bitmoji/bfgdeiadkckfbkeigkoncpdieiiefpig">Bitmoji</a></summary>
 
   Use Bitmoji anywhere on web!
+  </details>
+
+- <details>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/block-unenroll/bgopeekkgpfombjklfdiakchdnhjafij">Block Unenroll</a></summary>
+
+  Block Unenrolling from Google Classroom
   </details>
 
 - <details>
@@ -133,6 +151,12 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions. 
   <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/clicker-writer/egafnampmliponcnbihdbmdblmfgfhac">Clicker Writer</a></summary>
 
   Develop students’ writing skills and build struggling writers’ confidence with Clicker Writer - the writing tool that provides…
+  </details>
+
+- <details>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/cloudconvert/hfpmbfgodkfcebpgheiedaddoikmljkk">CloudConvert</a></summary>
+
+  convert anything to anything
   </details>
 
 - <details>
@@ -259,6 +283,12 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions. 
   <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/fractions-by-the-math-lea/ggebicodjlnlcnlnfmbnhihkmoblhmio">Fractions, by The Math Learning Center</a></summary>
 
   Fractions lets students use a bar or circle to represent fractions.
+  </details>
+
+- <details>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/genie-extemp-congress-deb/efadmbnnoammocppapaojgggfdnelmde">Genie - Extemp, Congress, Debate</a></summary>
+
+  Genie puts Evidence At Your Command for Extemp, Congress, and Debate.
   </details>
 
 - <details>
@@ -436,9 +466,9 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb">Loom for Chrome</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/loom-%E2%80%93-free-screen-and-ca/liecbddmkiiihnedobmlmillhodjkdmb">Loom – Free Screen and Cam Recorder</a></summary>
 
-  Video messaging for work.
+  Record your screen and camera with one click. Share that content in an instant with a link.
   </details>
 
 - <details>
@@ -574,9 +604,9 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/orbitdoc/feepmdlmhplaojabeoecaobfmibooaid">OrbitDoc</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/orbitnote/feepmdlmhplaojabeoecaobfmibooaid">OrbitNote</a></summary>
 
-  Create, convert, connect: take your digital documents to the next level with OrbitDoc.
+  Create, convert, connect: take your digital documents to the next level with OrbitNote.
   </details>
 
 - <details>
@@ -826,6 +856,12 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/sticky-notes/nbjdhgkkhefpifbifjiflpaajchdkhpg">Sticky Notes</a></summary>
+
+  The first, truly sticky app for notes on your desktop! It is easy to manage and customize. Now also supports speech recognition!
+  </details>
+
+- <details>
   <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/stop-motion-animator/bjkfigedpppnggdamgeclieeekhbgjpc">Stop Motion Animator</a></summary>
 
   Make Stop Motion videos using your webcam
@@ -844,7 +880,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/ti-84-plus-ce-app-for-chr/compdaiogbfdpildfbleipdcglmmlojo">TI-84 Plus CE App for Chrome OS</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/compdaiogbfdpildfbleipdcglmmlojo">TI-84 Plus CE App for Chrome OS</a></summary>
 
   Designed to support the 2020/2021 school year.
   </details>
@@ -988,7 +1024,7 @@ There are 173 extensions, with 173 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/web-paint/emeokgokialpjadjaoeiplmnkjoaegng">Web Paint</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/emeokgokialpjadjaoeiplmnkjoaegng">Web Paint</a></summary>
 
   Draw shapes, lines, and add text to live web pages and take screenshot.
   </details>
