@@ -1,4 +1,4 @@
-# Extensions
+# Allowed Extensions
 There are 185 extensions, with 185 found extensions and 0 not found extensions. 20 extensions were found but removed from the web store.
 
 ## FOUND extensions:
