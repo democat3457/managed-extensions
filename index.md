@@ -10,9 +10,9 @@ This is a list of allowed and forced extensions on PISD. You can click the arrow
 
 Extensions are obtained using a self-created [Python repl.it](https://replit.com/@democat/Extension-finder) and the policies found at `chrome://policy`
 
-*Last updated January 2022*
+*Last updated August 2022*
 
 ### Support or Contact
 
-- Ping me on Discord at democat#3457
+- Ping me on Discord at `democat#3457`
 - Create a [GitHub issue](https://github.com/democat3457/managed-extensions/issues)
