@@ -1,5 +1,5 @@
-# Allowed Extensions
-There are 179 extensions, with 179 found extensions and 0 not found extensions. 19 extensions were found but removed from the web store.
+# Extensions
+There are 185 extensions, with 185 found extensions and 0 not found extensions. 20 extensions were found but removed from the web store.
 
 ## FOUND extensions:
 
@@ -148,9 +148,9 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/clicker-writer/egafnampmliponcnbihdbmdblmfgfhac">Clicker Writer</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/clicker-writer-legacy/egafnampmliponcnbihdbmdblmfgfhac">Clicker Writer Legacy</a></summary>
 
-  Develop students’ writing skills and build struggling writers’ confidence with Clicker Writer - the writing tool that provides…
+  Clicker Writer for Chrome has been superseded by a new version. To get the new version follow the installation instructions on our…
   </details>
 
 - <details>
@@ -169,6 +169,12 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
   <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/cowriter-universal-app/lahlmdogjpblkonckkgbljegkiijjbag">Co:Writer Universal (App)</a></summary>
 
   Word prediction that is grammar smart and inventive spelling aware. Speech recognition allows you to speak it, and we'll write it.
+  </details>
+
+- <details>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/color-overlay/glejbiebgbadpnhcjmidgclkjeelddgk">Color Overlay</a></summary>
+
+  Put color overlay over all the web content.
   </details>
 
 - <details>
@@ -196,7 +202,13 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/mjgcgnfikekladnkhnimljcalfibijha">DocHub - Sign PDF from Gmail</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh">Diigo Web Collector - Capture and Annotate</a></summary>
+
+  Bookmark, Archive, Screenshot & Markup - All-In-One Web Collector, must-have research tool
+  </details>
+
+- <details>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/dochub-sign-pdf-from-gmai/mjgcgnfikekladnkhnimljcalfibijha">DocHub - Sign PDF from Gmail</a></summary>
 
   Sign and edit PDF documents
   </details>
@@ -240,11 +252,11 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
 - <details>
   <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/emoji-keyboard-by-joypixe/ipdjnhgkpapgippgcgkfcbpdpcgifncb">Emoji Keyboard by JoyPixels®</a></summary>
 
-  The world's leading emoji keyboard for Chrome. Now Unicode 13.1 compatible!
+  The world's leading emoji keyboard for Chrome. Now Unicode 14.0 compatible!
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/equatio-math-made-digital/hjngolefdpdnooamgdldlkjgmdcmcjnc">EquatIO - Math made digital</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/equatio-math-made-digital/hjngolefdpdnooamgdldlkjgmdcmcjnc">Equatio - Math made digital</a></summary>
 
   Easily create mathematical equations, formulas and quizzes. Intuitively type or handwrite, with no tricky math code to learn.
   </details>
@@ -262,9 +274,9 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/flipgrid/nijejdnikeoaldbcboagjlibadkabiae">Flipgrid</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/flip/nijejdnikeoaldbcboagjlibadkabiae">Flip</a></summary>
 
-  Easily access Flipgrid from any browser window.
+  Easily access Flip from any browser window.
   </details>
 
 - <details>
@@ -388,9 +400,9 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen">Grammarly for Chrome</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen">Grammarly: Grammar Checker and Writing App</a></summary>
 
-  Write your best with Grammarly for Chrome.
+  Improve your writing with Grammarly's communication assistance—including spell check, grammar check, punctuation check, and more.
   </details>
 
 - <details>
@@ -406,15 +418,15 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/helperbird-accessibility/ahmapmilbkfamljbpgphfndeemhnajme">Helperbird: Accessibility & Dyslexia Software</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/helperbird-accessibility/ahmapmilbkfamljbpgphfndeemhnajme">Helperbird: Accessibility & Productivity App</a></summary>
 
-  Over 32 accessibility & productivity features built to help with reading and writing on the web, in class, at work, or at home.
+  Over 32 accessibility & productivity features built to support every kind of reader, learner, and writer. Includes dyslexia support.
   </details>
 
 - <details>
   <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/honorlock/hnbmpkmhjackfpkpcbapafmpepgmmddc">Honorlock</a></summary>
 
-  Honorlock Chrome Extension
+  This extension lets you take Honorlock proctored online exams using the Google Chrome browser.
   </details>
 
 - <details>
@@ -444,7 +456,7 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
 - <details>
   <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/kami-for-google-chrome/ecnphlgnajanjnkcmbpancdjoidceilk">Kami for Google Chrome™</a></summary>
 
-  World's #1 digital classroom tool with complete assignment workflow. Annotate and transform any document.
+  Kami is an interactive learning platform empowering students and enhancing the way teachers teach, feedback, and assess.
   </details>
 
 - <details>
@@ -454,7 +466,7 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/jhnhfnolmcleankdkhfklakpchnccipg">LEGO® MINDSTORMS® Education EV3</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/lego%C2%AE-mindstorms%C2%AE-educati/jhnhfnolmcleankdkhfklakpchnccipg">LEGO® MINDSTORMS® Education EV3</a></summary>
 
   The LEGO® MINDSTORMS® Education EV3 Programming App simplifies student access to, and promotes their engagement with, STEM subjects.
   </details>
@@ -466,7 +478,7 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/loom-%E2%80%93-free-screen-and-ca/liecbddmkiiihnedobmlmillhodjkdmb">Loom – Free Screen and Cam Recorder</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/loom-%E2%80%93-free-screen-record/liecbddmkiiihnedobmlmillhodjkdmb">Loom – Free Screen Recorder & Screen Capture</a></summary>
 
   Record your screen and camera with one click. Share that content in an instant with a link.
   </details>
@@ -532,6 +544,12 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/move-it/kopilngnmfklhhjocdfdlokmodibcbmk">Move It</a></summary>
+
+  Busy working on your computer? Spending hours searching the internet? Get active with Move It.
+  </details>
+
+- <details>
   <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/my-homework-reminder/jkfnehckplkpicbhiajnggoendjcendc">My Homework Reminder</a></summary>
 
   This extension helps students keep track of assignments and due dates.
@@ -546,7 +564,7 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
 - <details>
   <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/natural-reader-text-to-sp/kohfgcgbkjodfcfkcackpagifgbcmimk">Natural Reader Text to Speech</a></summary>
 
-  Listen to webpages, PDF, Email, Google Docs, or any other web content.
+  Listen to any email, webpage, google doc, PDF and kindle book! AI powered smart voice reader, with natural voices.
   </details>
 
 - <details>
@@ -676,6 +694,12 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/protractor-protector/ibjbhbhcgbkiohfmddokjmmbkbgpfgnl">Protractor Protector</a></summary>
+
+  Measure angles in Chrome with a protractor overlay.
+  </details>
+
+- <details>
   <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/qr-code-reader/likadllkkidlligfcdhfnnbkjigdkmci">QR Code Reader</a></summary>
 
   A chrome extension for reading QR code from webpage.
@@ -690,7 +714,7 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
 - <details>
   <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/readwrite-for-google-chro/inoeonmfapjbbkmdafoankkfajkcphgd">Read&Write for Google Chrome™</a></summary>
 
-  Boost reading and writing confidence across all types of content and devices, in class, at work, and at home!
+  Boost reading and writing confidence across all types of content and devices, in class, at work, and at home.
   </details>
 
 - <details>
@@ -706,9 +730,9 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/readme-text-to-speech-rea/npdkkcjlmhcnnaoobfdjndibfkkhhdfn">Readme - Text to Speech Reader</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/readme-text-to-speech-tts/npdkkcjlmhcnnaoobfdjndibfkkhhdfn">Readme - Text to Speech TTS</a></summary>
 
-  Turn text into lifelike speech. Readme can read aloud the content of any web pages, pdfs & ebooks with natural sounding voices.
+  Turn text into natural-sounding speech! Read aloud the contents of any web page, PDF file, or e-book using text-to-speech (TTS).
   </details>
 
 - <details>
@@ -808,6 +832,12 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/snoozz-snooze-tabs-window/lklendgldejcnkkaldoggoapclkepgfb">Snoozz - Snooze Tabs & Windows for later</a></summary>
+
+  Declutter your browser by snoozing tabs and windows until you actually need them.
+  </details>
+
+- <details>
   <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/speak-it/amcnjejmdfilapnnfgnhnidhkififadk">Speak It</a></summary>
 
   Speak It app converts text into speech. Select text > Speak it
@@ -820,7 +850,7 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/special-characters-click/fkjbliednplpohojfpgnbpcppgdnhklb">Special Characters - Click and Paste</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/fkjbliednplpohojfpgnbpcppgdnhklb">Special Characters - Click and Paste</a></summary>
 
   Copy special characters to the clipboard
   </details>
@@ -832,13 +862,13 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/speechify-for-chrome/ljflmlehinmoeknoonhibbjpldiijjmm">Speechify for Chrome</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/speechify-text-to-speech/ljflmlehinmoeknoonhibbjpldiijjmm">Speechify Text-to-Speech (TTS)</a></summary>
 
-  Listen to any website with Speechify for Chrome
+  Listen to docs, articles, PDFs, email — anything you read — with our leading text-to-speech reader.
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/sphero-edu/hfiocchbmngcelgfdcfbepgoipapddlh">Sphero Edu</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/hfiocchbmngcelgfdcfbepgoipapddlh">Sphero Edu</a></summary>
 
   Programming for Sphero Robots
   </details>
@@ -898,9 +928,15 @@ There are 179 extensions, with 179 found extensions and 0 not found extensions. 
   </details>
 
 - <details>
-  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/tab-scissors/cdochbecpfdpjobpgnacnbepkgcfhoek">Tab Scissors</a></summary>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://www.crx4chrome.com/extensions/cdochbecpfdpjobpgnacnbepkgcfhoek">Tab Scissors</a></summary>
 
   This extension splits a window into two at the selected tab.
+  </details>
+
+- <details>
+  <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/tabcloud/npecfdijgoblfcgagoijgmgejmcpnhof">TabCloud</a></summary>
+
+  Save and restore window sessions over time and across multiple computers.
   </details>
 
 - <details>
