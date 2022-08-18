@@ -1,4 +1,4 @@
-# Forced Extensions
+# Extensions
 There are 10 extensions, with 10 found extensions and 0 not found extensions. 1 extensions were found but removed from the web store.
 
 ## FOUND extensions:
@@ -48,7 +48,7 @@ There are 10 extensions, with 10 found extensions and 0 not found extensions. 1 
 - <details>
   <summary><a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/kami-for-google-chrome/ecnphlgnajanjnkcmbpancdjoidceilk">Kami for Google Chrome™</a></summary>
 
-  World's #1 digital classroom tool with complete assignment workflow. Annotate and transform any document.
+  Kami is an interactive learning platform empowering students and enhancing the way teachers teach, feedback, and assess.
   </details>
 
 - <details>
